@@ -22,6 +22,16 @@
       }
     },
     {
+      "key": "TEST",
+      "name": "Test",
+      "pcs": {
+        "PC1": { "path1": "tv-1.msp" },
+        "PC2": { "path1": "tv-2.msp" },
+        "PC3": { "path1": "tv-large.msp" },
+        "PC6": { "path1": "precinct-monitor-1.msp", "path2": "precinct-monitor-2.msp" }
+      }
+    },
+    {
       "key": "NYSM",
       "name": "Now You See Me",
       "pcs": {
