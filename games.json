@@ -32,6 +32,16 @@
         "PC5": { "path1": "nysm-tv-42.msp" },
         "PC6": { "path1": "nysm-painting.msp" }
       }
+    },
+    {
+      "key": "VAULTHEIST",
+      "name": "Vault Heist",
+      "pcs": {
+        "PC1": { "path1": "vaultheist-tv-1.msp" },
+        "PC2": { "path1": "vaultheist-tv-2.msp" },
+        "PC3": { "path1": "vaultheist-tv-large.msp" },
+        "PC4": { "path1": "vaultheist-projector.msp" }
+      }
     }
   ]
 }
