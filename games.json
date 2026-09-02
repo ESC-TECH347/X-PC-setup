@@ -4,53 +4,43 @@
       "key": "SANTA",
       "name": "Saving Santa",
       "pcs": {
-        "PC1": { "path1": "savingsanta-tv-1.msp" },
-        "PC2": { "path1": "savingsanta-tv-2.msp" },
-        "PC3": { "path1": "savingsanta-tv-large.msp" },
-        "PC4": { "path1": "savingsanta-projector.msp" },
-        "PC5": { "path1": "savingsanta-tv-42.msp" }
+        "PC1": { "label": "Room 1 Left Portrait TV", "path1": "savingsanta-tv-1.msp" },
+        "PC2": { "label": "Room 1 Right Portrait TV", "path1": "savingsanta-tv-2.msp" },
+        "PC3": { "label": "Room 2 65 inch TV", "path1": "savingsanta-tv-large.msp" },
+        "PC4": { "label": "Room 3 Projector", "path1": "savingsanta-projector.msp" },
+        "PC5": { "label": "Room 3 Fireplace", "path1": "savingsanta-tv-42.msp" }
       }
     },
     {
       "key": "CRIMESCENE",
       "name": "Crime Scene",
       "pcs": {
-        "PC1": { "path1": "tv-1.msp" },
-        "PC2": { "path1": "tv-2.msp" },
-        "PC3": { "path1": "tv-large.msp" },
-        "PC6": { "path1": "precinct-monitor-1.msp", "path2": "precinct-monitor-2.msp" }
-      }
-    },
-    {
-      "key": "TEST",
-      "name": "Test",
-      "pcs": {
-        "PC1": { "path1": "tv-1.msp" },
-        "PC2": { "path1": "tv-2.msp" },
-        "PC3": { "path1": "tv-large.msp" },
-        "PC6": { "path1": "precinct-monitor-1.msp", "path2": "precinct-monitor-2.msp" }
+        "PC1": { "label": "Room 1 Left Portrait TV", "path1": "tv-1.msp" },
+        "PC2": { "label": "Room 1 Right Portrait TV", "path1": "tv-2.msp" },
+        "PC3": { "label": "Room 2 65 inch TV", "path1": "tv-large.msp" },
+        "PC6": { "label": "Room 3 Desk Monitors", "path1": "precinct-monitor-1.msp", "path2": "precinct-monitor-2.msp" }
       }
     },
     {
       "key": "NYSM",
       "name": "Now You See Me",
       "pcs": {
-        "PC1": { "path1": "nysm-tv-1.msp" },
-        "PC2": { "path1": "nysm-tv-2.msp" },
-        "PC3": { "path1": "nysm-tv-large.msp" },
-        "PC4": { "path1": "nysm-projector.msp" },
-        "PC5": { "path1": "nysm-tv-42.msp" },
-        "PC6": { "path1": "nysm-painting.msp" }
+        "PC1": { "label": "Room 1 Left Portrait TV", "path1": "nysm-tv-1.msp" },
+        "PC2": { "label": "Room 1 Right Portrait TV", "path1": "nysm-tv-2.msp" },
+        "PC3": { "label": "Room 2 65 inch TV", "path1": "nysm-tv-large.msp" },
+        "PC4": { "label": "Room 3 Projector", "path1": "nysm-projector.msp" },
+        "PC5": { "label": "Room 3 Painting", "path1": "nysm-tv-42.msp" },
+        "PC6": { "label": "Room 1 Landscape Painting", "path1": "nysm-painting.msp" }
       }
     },
     {
       "key": "VAULTHEIST",
       "name": "Vault Heist",
       "pcs": {
-        "PC1": { "path1": "vaultheist-tv-1.msp" },
-        "PC2": { "path1": "vaultheist-tv-2.msp" },
-        "PC3": { "path1": "vaultheist-tv-large.msp" },
-        "PC4": { "path1": "vaultheist-projector.msp" }
+        "PC1": { "label": "Portrait", "path1": "vaultheist-tv-1.msp" },
+        "PC2": { "label": "Portrait", "path1": "vaultheist-tv-2.msp" },
+        "PC3": { "label": "Landscape", "path1": "vaultheist-tv-large.msp" },
+        "PC4": { "label": "Landscape", "path1": "vaultheist-projector.msp" }
       }
     }
   ]
