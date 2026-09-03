@@ -32,16 +32,6 @@
         "PC5": { "label": "Room 3 Painting", "path1": "nysm-tv-42.msp" },
         "PC6": { "label": "Room 1 Landscape Painting", "path1": "nysm-painting.msp" }
       }
-    },
-    {
-      "key": "VAULTHEIST",
-      "name": "Vault Heist",
-      "pcs": {
-        "PC1": { "label": "Portrait", "path1": "vaultheist-tv-1.msp" },
-        "PC2": { "label": "Portrait", "path1": "vaultheist-tv-2.msp" },
-        "PC3": { "label": "Landscape", "path1": "vaultheist-tv-large.msp" },
-        "PC4": { "label": "Landscape", "path1": "vaultheist-projector.msp" }
-      }
     }
   ]
 }
